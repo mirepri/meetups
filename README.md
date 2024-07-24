@@ -1,4 +1,4 @@
-# Welcome to Effect Meetup Berlin
+# Welcome to Effect Meetup Group
 Talk submissions for Effect meetups and other resources.
 
 ***
