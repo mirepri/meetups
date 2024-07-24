@@ -11,9 +11,9 @@ body:
         - Lightning (10 minutes)
     validations:
       required: true
- - type: textarea
-   id: description
-   attributes:
+  - type: textarea
+    id: description
+    attributes:
       label: Description
       description: Could you provide more details about the content of your talk?
     validations:
