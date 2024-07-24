@@ -11,7 +11,7 @@ body:
         - Lightning (10 minutes)
     validations:
       required: true
-      - type: textarea
+ - type: textarea
     id: description
     attributes:
       label: Description
