@@ -38,8 +38,6 @@ body:
         # Contact
 
         The following fields are optional and will help us contact you if needed.
-
-        In any case, **don't forget to enable notifications on this issue**!
   - type: input
     id: twitter
     attributes:
@@ -61,3 +59,9 @@ body:
       description: Your email (please note that the email will be public in the issue)
     validations:
       required: false
+      ---
+  - type: markdown
+    attributes:
+      value: |
+         **Don't forget to enable notifications on this issue**!
+       **Don't forget to enable notifications on this issue**!
