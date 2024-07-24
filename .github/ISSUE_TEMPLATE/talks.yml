@@ -1,5 +1,5 @@
 name: Effect talk submissions
-description: Submit your Effect talk proposal
+about: Submit your Effect talk proposal
 body:
   - type: dropdown
     id: format
