@@ -59,8 +59,10 @@ body:
       description: Your email (please note that the email will be public in the issue)
     validations:
       required: false
-
-  ---
+  - type: markdown
+    attributes:
+      value:
+          ---
       
   - type: markdown
     attributes:
