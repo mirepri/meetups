@@ -1,5 +1,5 @@
 # Welcome to Effect Meetup Berlin
-Talk submission for Effect meetups and other resources
+Talk submissions for Effect meetups and other resources.
 
 ***
 
