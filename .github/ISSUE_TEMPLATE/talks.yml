@@ -1,5 +1,4 @@
-body:
-name: Talk submissions
+name: Effect talk submissions
 description: Submit your Effect talk proposal
 body:
   - type: dropdown
