@@ -5,9 +5,59 @@ body:
     id: format
     attributes:
       label: Format
-      description: Combien de temps dure votre talk ?
+      description: How long is your talk?
       options:
         - Long (20 minutes)
         - Lightning (10 minutes)
     validations:
       required: true
+      - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Could you provide more details about the content of your talk?
+    validations:
+      required: true
+  - type: input
+    id: slides
+    attributes:
+      label: Link to your slides
+      description: The slides of your talk (if you have them ready)
+    validations:
+      required: false
+  - type: textarea
+    id: other
+    attributes:
+      label: Autre
+      description: If you have any additional details or questions, please include them here.
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        # Contact
+
+        The following fields are optional and will help us contact you if needed.
+
+        In any case, **don't forget to enable notifications on this issue**!
+  - type: input
+    id: twitter
+    attributes:
+      label: Twitter
+      description: Your Twitter profile
+    validations:
+      required: false
+  - type: input
+    id: github
+    attributes:
+      label: GitHub
+      description: Your GitHub profile
+    validations:
+      required: false
+  - type: input
+    id: email
+    attributes:
+      label: Email
+      description: Your email (please note that the email will be public in the issue)
+    validations:
+      required: false
