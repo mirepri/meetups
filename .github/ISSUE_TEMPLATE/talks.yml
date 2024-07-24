@@ -1,0 +1,13 @@
+name: Talk submissions
+description: Submit your Effect talk proposal
+body:
+  - type: dropdown
+    id: format
+    attributes:
+      label: Format
+      description: Combien de temps dure votre talk ?
+      options:
+        - Long (20 minutes)
+        - Lightning (10 minutes)
+    validations:
+      required: true
