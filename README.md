@@ -1,4 +1,4 @@
-![Effect logo](https://github.com/user-attachments/assets/baa39489-e780-45b3-82a6-a2cf1027b685)
+![Effect logo](https://github.com/user-attachments/assets/2658df4a-9762-424f-908b-5100a3db0792)
 
 # Welcome to Effect Meetup Group
 This is a template repository for Effect meetup organizers. It includes talk submissions forms and other resources. Feel free to use it for your meetups.
