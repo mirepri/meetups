@@ -4,7 +4,7 @@ Talk submissions for Effect meetups and other resources.
 ## [→ Submit your talk](https://github.com/mirepri/meetups/issues/new?assignees=&labels=&projects=&template=talks.yml)
 
 
-## Learn more about and follow Effect:
+## → Learn more about and follow Effect:
 - [Website & docs](https://effect.website/)
 - [Community & support](https://discord.gg/effect-ts)
 - [Follow us on X (Twitter)](https://twitter.com/EffectTS_)
@@ -12,7 +12,7 @@ Talk submissions for Effect meetups and other resources.
 
 
 
-## Other resources
+## → Other resources
 
 - [Effect logo guidelines](https://sparkling-lancer-5bd.notion.site/Effect-logo-guidelines-14280adbc6354eaa8bd173e1bc0128a4)
 - [Effect meetup banners: templates & playground](https://www.figma.com/design/FnkWp2q2cH7nxlHI3vMkSy/Effect-Meetups?node-id=1-723&t=LRuxFGqfvZCTe4Wq-1)
