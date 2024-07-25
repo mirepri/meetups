@@ -1,16 +1,14 @@
 # Welcome to Effect Meetup Group
 Talk submissions for Effect meetups and other resources.
 
-## [→ Submit your talk](https://github.com/mirepri/meetups/issues/new?assignees=&labels=&projects=&template=talks.yml)
-
+## → Talk submissions
+[→ Submit your talk](https://github.com/mirepri/meetups/issues/new?assignees=&labels=&projects=&template=talks.yml)
 
 ## → Learn more about and follow Effect:
 - [Website & docs](https://effect.website/)
 - [Community & support](https://discord.gg/effect-ts)
 - [Follow us on X (Twitter)](https://twitter.com/EffectTS_)
 - [Github](https://github.com/Effect-TS)
-
-
 
 ## → Other resources
 
