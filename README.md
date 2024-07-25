@@ -3,6 +3,7 @@ Talk submissions for Effect meetups and other resources.
 
 ## → Talk submissions
 Effect-related talks, show different use cases of how you're using Effect.
+
 [Submit your talk](https://github.com/mirepri/meetups/issues/new?assignees=&labels=&projects=&template=talks.yml)
 
 ## → Learn more about and follow Effect:
