@@ -22,12 +22,13 @@ Effect is an ecosystem of tools to build better applications and libraries in Ty
 - [Effect meetup banners: templates & playground](https://www.figma.com/design/FnkWp2q2cH7nxlHI3vMkSy/Effect-Meetups?node-id=1-723&t=LRuxFGqfvZCTe4Wq-1)
 
 ## Code of conduct
-This code of conduct is expected to be observed by both speakers and attendees. Please read and comply with it during your participation in our meetup.
+The code of conduct is expected to be observed by both speakers and attendees. Please read and comply with it during your participation in our meetup.
 
-***
+[Code of Conduct](https://github.com/mirepri/meetups/blob/main/Code%20of%20Conduct.md)
 
 ## Spread the word!
 Please feel free to share the event on X (Twitter) and with your network!
 
-Thanks,
-The Effect Meetup Group
+***
+
+Thank you!
