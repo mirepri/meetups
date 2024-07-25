@@ -1,7 +1,7 @@
 # Welcome to Effect Meetup Group
 Talk submissions for Effect meetups and other resources.
 
-[**Submit your talk**](https://github.com/mirepri/meetups/issues/new?assignees=&labels=&projects=&template=talks.yml)
+## [→ Submit your talk](https://github.com/mirepri/meetups/issues/new?assignees=&labels=&projects=&template=talks.yml)
 
 
 ## Learn more about and follow Effect:
