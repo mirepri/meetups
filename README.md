@@ -3,7 +3,6 @@ Talk submissions for Effect meetups and other resources.
 
 [**Submit your talk**](https://github.com/mirepri/meetups/issues/new?assignees=&labels=&projects=&template=talks.yml)
 
-***
 
 ## Learn more about and follow Effect:
 - [Website & docs](https://effect.website/)
@@ -11,7 +10,7 @@ Talk submissions for Effect meetups and other resources.
 - [Follow us on X (Twitter)](https://twitter.com/EffectTS_)
 - [Github](https://github.com/Effect-TS)
 
-***
+
 
 ## Other resources
 
