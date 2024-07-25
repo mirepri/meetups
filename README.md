@@ -5,6 +5,8 @@ Talk submissions for Effect meetups and other resources.
 [Submit your talk](https://github.com/mirepri/meetups/issues/new?assignees=&labels=&projects=&template=talks.yml)
 
 ## → Learn more about and follow Effect:
+Effect is an ecosystem of tools to build better applications and libraries in TypeScript.
+
 - [Website & docs](https://effect.website/)
 - [Community & support](https://discord.gg/effect-ts)
 - [Follow us on X (Twitter)](https://twitter.com/EffectTS_)
