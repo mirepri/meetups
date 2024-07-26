@@ -12,7 +12,7 @@ The combination mark logo is the primary way we show the Effect brand.
 
 The Effect logo symbol is used when there isn’t enough room for the combination mark or other design considerations—for example, an application icon, favicon, or social media.
 
-<img width="88" alt="effect logosymbol black" src="https://github.com/user-attachments/assets/30680a24-b953-4207-9f17-648591f4aecc">
+<img width="88" alt="effect logo symbol black" src="https://github.com/user-attachments/assets/30680a24-b953-4207-9f17-648591f4aecc">
 
 [Download PNG](https://drive.google.com/drive/folders/13KrXXEutvIgW3QgQ1GTwuHdtrrgAHl0d?usp=drive_link) | [Download SVG](https://drive.google.com/drive/folders/1wNsNTvMOZczwiXl0YTHXp5y1plQXPY-8?usp=drive_link)
 
