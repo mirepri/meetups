@@ -28,7 +28,7 @@ The Effect logo symbol is used when there isn’t enough room for the combinatio
 
 - The logo can be placed on an image or gradient, as long as it’s clearly visible and legible.
 
-  <img width="280" alt="effect logo frame gradient" src="https://github.com/user-attachments/assets/30437995-1e51-4cda-ad6e-b0e02b5c30f9">
+  <img width="280" alt="effect logo frame gradient" src="https://github.com/user-attachments/assets/00a4e820-a9d1-487d-a9fa-f5f5edd10899">
 
 
 ### What to avoid
