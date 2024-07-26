@@ -51,6 +51,7 @@ The Effect logo symbol is used when there isn’t enough room for the combinatio
 
   <img width="280" alt="effect logo frame gradient" src="https://github.com/user-attachments/assets/d2e68f06-2f37-4bce-9fdb-a623a754db7a">
 
+***
 
 ## Logo pairing
 
