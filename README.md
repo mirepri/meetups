@@ -20,7 +20,7 @@ Effect is an ecosystem of tools to build better applications and libraries in Ty
 
 ## Other resources
 
-- [Effect logo guidelines](https://sparkling-lancer-5bd.notion.site/Effect-logo-guidelines-14280adbc6354eaa8bd173e1bc0128a4)
+- [Effect logo guidelines](/Effect%20logo%20guidelines.md)
 - [Effect meetup banners: templates & playground](https://www.figma.com/design/FnkWp2q2cH7nxlHI3vMkSy/Effect-Meetups?node-id=1-723&t=LRuxFGqfvZCTe4Wq-1)
 
 ## Code of conduct
