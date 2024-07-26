@@ -18,7 +18,7 @@ Effect is an ecosystem of tools to build better applications and libraries in Ty
 
 ## Other resources
 
-- [Effect logo guidelines](/Effect%20logo%20guidelines.md)
+- [Effect logo guidelines](/Effect%20Logo%20Guidelines.md)
 - [Effect meetup banners: templates & playground](https://www.figma.com/design/FnkWp2q2cH7nxlHI3vMkSy/Effect-Meetups?node-id=1-723&t=LRuxFGqfvZCTe4Wq-1)
 
 ## Code of conduct
