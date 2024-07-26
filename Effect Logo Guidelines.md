@@ -37,19 +37,19 @@ The Effect logo symbol is used when there isn’t enough room for the combinatio
 
 - Do not make the logo any color other than black or white.
 
-  <img width="280" alt="effect logo frame gradient" src="https://github.com/user-attachments/assets/cd5a92d7-268f-4f8b-a67d-e02954945a12">
+  <img width="280" alt="effect logo colored" src="https://github.com/user-attachments/assets/5b14b510-e3cc-430f-9d07-e5bdc1246152">
 
 - Do not shrink or stretch the logo and be sure to maintain the proportions.
 
-  <img width="280" alt="effect logo frame gradient" src="https://github.com/user-attachments/assets/08be3c9e-fba6-4ef5-b718-9adc65794d04">
+  <img width="280" alt="effect logo shrinked" src="https://github.com/user-attachments/assets/4e9af133-3432-485e-8511-0773edea2dc6">
 
 - Do not place drop shadows.
- 
-  <img width="280" alt="effect logo frame gradient" src="https://github.com/user-attachments/assets/0fed6960-7b2b-4615-aa12-f6e2d4cfc84f">
+
+  <img width="280" alt="effect logo frame gradient" src="https://github.com/user-attachments/assets/fdfcad2a-576d-4ed1-8d9b-c0cb11b56a60">
 
 - Do not rotate the logo.
 
-  <img width="280" alt="effect logo frame gradient" src="https://github.com/user-attachments/assets/d2e68f06-2f37-4bce-9fdb-a623a754db7a">
+  <img width="280" alt="effect logo rotated" src="https://github.com/user-attachments/assets/5eb87e3b-e890-4e2b-a118-c0073746a4c7">
 
 ***
 
