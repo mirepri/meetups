@@ -16,6 +16,8 @@ The Effect logo symbol is used when there isn’t enough room for the combinatio
 
 [Download PNG](https://drive.google.com/drive/folders/13KrXXEutvIgW3QgQ1GTwuHdtrrgAHl0d?usp=drive_link) | [Download SVG](https://drive.google.com/drive/folders/1wNsNTvMOZczwiXl0YTHXp5y1plQXPY-8?usp=drive_link)
 
+***
+
 ## Ground rules
 
 - Use the white logo on a dark background.
