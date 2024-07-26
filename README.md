@@ -6,7 +6,7 @@ This is a template repository for Effect meetup organizers. It includes talk sub
 ## Talk submissions
 Submit your Effect-related talk proposal to showcase your use cases and how you're leveraging Effect in real-world projects.
 
-[→ Submit your talk](/issues/new?assignees=&labels=&projects=&template=talks.yml)
+[→ Submit your talk](/new?assignees=&labels=&projects=&template=talks.yml)
 
 ## Learn more about and follow Effect
 Effect is an ecosystem of tools to build better applications and libraries in TypeScript.
