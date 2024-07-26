@@ -24,7 +24,7 @@ Effect is an ecosystem of tools to build better applications and libraries in Ty
 ## Code of conduct
 The code of conduct is expected to be observed by both speakers and attendees. Please read and comply with it during your participation in our meetup.
 
-[Code of Conduct](https://github.com/mirepri/meetups/blob/main/Code%20of%20Conduct.md)
+[Code of Conduct](/Code%20of%20Conduct.md)
 
 ## Spread the word!
 Please feel free to share the event on X (Twitter) and with your network!
