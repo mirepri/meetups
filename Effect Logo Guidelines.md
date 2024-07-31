@@ -41,15 +41,15 @@ The Effect logo symbol is used when there isn’t enough room for the combinatio
 
 - Do not shrink or stretch the logo and be sure to maintain the proportions.
 
-  <img width="280" alt="effect logo shrinked" src="https://github.com/user-attachments/assets/4e9af133-3432-485e-8511-0773edea2dc6">
+  <img width="280" alt="effect logo shrinked" src="ogo-shrinked-light](https://github.com/user-attachments/assets/97da89ba-399a-4a78-b694-46d3af377a3c">
 
 - Do not place drop shadows.
 
-  <img width="280" alt="effect logo frame gradient" src="https://github.com/user-attachments/assets/fdfcad2a-576d-4ed1-8d9b-c0cb11b56a60">
+  <img width="280" alt="effect logo frame gradient" src="hhttps://github.com/user-attachments/assets/d9803aef-dcca-4f2c-b0a3-00000d4585ba">
 
 - Do not rotate the logo.
 
-  <img width="280" alt="effect logo rotated" src="https://github.com/user-attachments/assets/5eb87e3b-e890-4e2b-a118-c0073746a4c7">
+  <img width="280" alt="effect logo rotated" src="https://github.com/user-attachments/assets/3ad61c15-b1ce-47ae-8166-249482297e90">
 
 ***
 
