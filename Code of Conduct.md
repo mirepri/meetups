@@ -6,29 +6,22 @@ Our tech meetup is dedicated to providing a harassment-free experience for every
 
 ## Expected behavior
 
-- **Respectful communication**
-Treat all attendees, speakers, sponsors, and organizers with respect and consideration. Use welcoming and inclusive language, and be respectful of differing viewpoints and experiences.
+- **Respectful communication:** Treat all attendees, speakers, sponsors, and organizers with respect and consideration. Use welcoming and inclusive language, and be respectful of differing viewpoints and experiences.
 
-- **Privacy**
-Respect the privacy of attendees. Do not share personal information without consent.
+- **Privacy:** Respect the privacy of attendees. Do not share personal information without consent.
 
-- **Professional conduct**
-Behave professionally at all times. Alert meetup organizers if you notice a dangerous situation or someone in distress.
+- **Professional conduct:** Behave professionally at all times. Alert meetup organizers if you notice a dangerous situation or someone in distress.
 
-- **Participate authentically**
-Share insights, ask questions, and engage with the content and other participants constructively.
+- **Participate authentically:** Share insights, ask questions, and engage with the content and other participants constructively.
 
 
 ## Unacceptable behavior
 
-- **Harassment and discrimination**
-Harassment of any kind, including but not limited to verbal, physical, or sexual harassment as well as discriminatory comments, jokes, or actions.
+- **Harassment and discrimination:** Harassment of any kind, including but not limited to verbal, physical, or sexual harassment as well as discriminatory comments, jokes, or actions.
 
-- **Disruptive behavior**
-Disruptions of presentations or other events, including excessive noise, physical interference, or other distractions.
+- **Disruptive behavior:** Disruptions of presentations or other events, including excessive noise, physical interference, or other distractions.
 
-- **Intimidation and threats**
-Intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+- **Intimidation and threats:** Intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
 Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in unacceptable behavior, the organizers may take any action they deem appropriate, including warning the offender, expulsion from the meetup, or reporting to local law enforcement.
 
