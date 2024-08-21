@@ -8,7 +8,7 @@ Submit your Effect-related talk proposal to showcase your use cases and how you'
 
 [↗️ Submit your talk](../../issues/new?assignees=&labels=&projects=&template=talks.yml) 
 
-## Learn more about and follow Effect
+## Learn more about & follow Effect
 Effect is an ecosystem of tools to build better applications and libraries in TypeScript.
 
 - [Website & docs](https://effect.website/)
